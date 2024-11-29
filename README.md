@@ -1,5 +1,6 @@
 # Audio Similarity Experiment for Master Thesis dyploma
-# Thesis title: "Application of siamese naturalne networks to evaluate similarity of musical tracks"
+
+Thesis title: "Application of siamese naturalne networks to evaluate similarity of musical tracks"
 
 Collection of tools for experimenting with notion of similarity of audio files.
 Contains modules for generating audio datasets, extracting audio features and computing similarity scores.
